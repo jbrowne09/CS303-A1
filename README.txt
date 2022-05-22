@@ -7,6 +7,8 @@ Note: - This project was completed in 2019, software used may be outdated/incomp
       - The original assignment brief is included: 'trafficControllerBrief.pdf'
       - Project was coded in C; only the code inside the 'main.c' file in the folder 'Group2_A1' was completed by the group 
         all other files are auto-generated or provided as apart of the assignment 
+      - Information was additionally sent to the board for updating some control values using UART; this was done using the 
+        terminal program 'PuTTy' although any method that can send UART packets should work(following instructions below)
 
 PROJECT CREATION/DEVICE PROGRAMMING:
 To Create the project:
