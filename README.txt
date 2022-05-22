@@ -5,8 +5,8 @@ This README details operational instructions for the traffic light controller ru
 
 Note: - This project was completed in 2019, software used may be outdated/incompatible with current Operating system(s)
       - The original assignment brief is included: 'trafficControllerBrief.pdf'
-      - Project was coded in C; only the code inside the 'main.c' file in the folder 'Group2_A1' was completed by the group all 
-        other files are auto-generated or provided as apart of the assignment 
+      - Project was coded in C; only the code inside the 'main.c' file in the folder 'Group2_A1' was completed by the group 
+        all other files are auto-generated or provided as apart of the assignment 
 
 PROJECT CREATION/DEVICE PROGRAMMING:
 To Create the project:
